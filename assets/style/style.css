@@ -1,0 +1,45 @@
+
+ 
+body {
+    background-image: url("../images/bg.png");
+    background-color: teal;
+}
+
+h1 {
+  color: gold;
+  margin-bottom: 40px;
+}
+.jumbotron p {
+font-size: 20px;
+color: white;
+
+}
+.jumbotron {
+background-color:teal
+}
+footer p {
+  text-align: center;
+
+}
+ .gem img
+{
+	width:200px;
+	height:200px;
+	border: 10px groove teal;
+	display: inline;
+}
+
+
+ 
+.score  {
+	font-size: 20px;
+	font-weight: bold;
+}
+#yourTotal {
+	text-align: right;
+}
+.digits {
+	background-color: tan;
+	padding:20px;
+ 
+}
